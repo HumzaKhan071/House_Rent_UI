@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:house_rent/Screen/Home/home.dart';
 
 void main() {
   runApp(MyApp());
